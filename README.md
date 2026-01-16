@@ -35,7 +35,7 @@ The organization lacked visibility into:
 ---
 
 ## 🔄 Project Workflow
-1. Downloaded the HR attrition dataset from Kaggle (CSV/Excel format)
+1. Downloaded the HR attrition dataset from Kaggle 
 2. Created a database and table in SQL Server
 3. Inserted data using the bulk insert method
 4. Connected Power BI to the SQL Server database
@@ -77,7 +77,7 @@ The organization lacked visibility into:
 ---
 
 ## 📁 Repository Contents
-- `dataset/` – HR attrition dataset (CSV / Excel)  
+- `dataset/` – HR attrition dataset (CSV)  
 - `sql/` – SQL table creation and insert queries  
 - `powerbi/` – Power BI dashboard (.pbix) file  
 - `screenshots/` – Dashboard screenshot (PNG)  
